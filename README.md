@@ -1,4 +1,4 @@
-#  Student Alcohol Consumption Detection (ML Classification)
+#  Impact of Alcohol Consumption on Student Academic Performance
 
 This project, developed in a Jupyter Notebook (`student-alcohol-consump-project.ipynb`), is a machine learning initiative aimed at predicting the likelihood of **high alcohol consumption** among high school students. It uses a range of social, demographic, and academic features to classify students into a high-risk group, providing a valuable tool for early intervention and support programs. The task is structured as a **binary classification** problem.
 
